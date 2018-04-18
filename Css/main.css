@@ -1,15 +1,18 @@
 .bandera {
-    display: block;
+    display: inline-block;
     height: 20vh;
     width: 20%;
  }
+ 
  .amarillo {
     background-color: #ffc107;
     color: black;
  }
+ 
  .gris {
     background-color: black;
     color: white;
  }
+ 
  
  
